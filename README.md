@@ -129,4 +129,4 @@ O código que devemos escrever, é a nossa comunicação com outros profissionai
 
 Sempre há um porém, é esse porém se dá caso sua aplicação seja pra mostrar algo rápido pro cliente ou até mesmo pra vc ver como está sua aplicação.
 
-Se seu projeto estiver tomando maiores proporções, crescendo cada vez, tira um dia livre para refatorar essas variáveis. Você pode até achar que é perda de tempo fazer isso, tudo bem, opinião sua, mas torca entao pra nao ter que dar manutenção no seu código futuramente :fa-smile-o:
+Se seu projeto estiver tomando maiores proporções, crescendo cada vez, tira um dia livre para refatorar essas variáveis. Você pode até achar que é perda de tempo fazer isso, tudo bem, opinião sua, mas torca entao pra nao ter que dar manutenção no seu código futuramente :)
